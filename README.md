@@ -19,3 +19,8 @@ docker run -p 8080:8080 app-builder
 
 ## Deployment
 Includes a `.github/workflows/deploy.yml` workflow for continuous delivery.
+
+
+## Prerequisites
+- Required environment and dependencies
+
